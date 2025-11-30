@@ -40,10 +40,6 @@ JavaScript (ES6+)
 
 Node.js (optional for testing)
 
-🧪 Testing
-
-Some solutions may include test cases or console logs to check correctness.
-
 Example:
 
 console.log(solution("hello")); // expected output: ...
